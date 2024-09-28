@@ -17,10 +17,6 @@ Devices that does not answer for pings (like windows computers) will not show.
 ### Demonstration:  
 You can watch a demonstration of the tool [On youtube soon](https://www.youtube.com/tontonjo) 
 
-### Prerequisits:
-- Up-to-date PVE 7 / 8 or PBS server
-- Internet connexion
-
 ## Features are:
 Association of MAC addresses, local link adresses and vendor if possible.
 
