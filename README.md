@@ -1,5 +1,5 @@
 # IPv6 Scan
-## Scan a link for IPv6 Aware Hosts
+## Scan a network link for IPv6 Aware Hosts
 
 ![image](https://github.com/user-attachments/assets/9a153f32-7fe1-410e-8edc-189a2aba22e7)
 
